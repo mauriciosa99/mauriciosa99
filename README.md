@@ -1,16 +1,50 @@
-### Hi there 👋
+### Maurico Araujo - [Data Scientist - Em formação] 👋
 
-<!--
-**mauriciosa99/mauriciosa99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sou um profissional de TI que conheceu a Ciência de Dados e fiquei encantado com as possibilidades que a mesma pode proporcionar
 
-Here are some ideas to get you started:
+- 💻 Atualmente estou trabalhando de forma autônoma com TI em geral
+- 📈 Estou buscando aprimorar minhas habilidades em Ciência dos Dados 🤣
+- 📊 Focado em enriquecer meu portfólio e aprender cada vez mais através de projetos reais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Conecte-se comigo:
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/mauricio-dos-santos-araujo-81a50816b)
+
+[<img align="left" alt="jhon_cabreira | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/mauricio.ds0/)
+
+
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+
+<img align="left" alt="visual studio code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+[<img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
+
+<img align="left" alt="SQLServer" width="26px" src="<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
+
+<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
+
+<br />
+<br />
+
+
+---
+
+
+
+
+
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmcabreira&show_icons=true&hide_border=true" />
+
+
+[linkedin]: https://www.linkedin.com/in/mauricio-dos-santos-araujo-81a50816b/
+[instagram]: https://www.instagram.com/mauricio.ds0/
