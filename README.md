@@ -1,6 +1,6 @@
 ### Maurico Araujo - [Data Scientist - Em formação] 👋
 
-## Sou um profissional de TI que conheceu a Ciência de Dados e fiquei encantado com as possibilidades que a mesma pode proporcionar
+## Sou um profissional de TI que conheceu a Ciência de Dados e no mesmo instante fiquei encantado com as possibilidades que a mesma pode proporcionar
 
 - 💻 Atualmente estou trabalhando de forma autônoma com TI em geral
 - 📈 Estou buscando aprimorar minhas habilidades em Ciência dos Dados 🤣
