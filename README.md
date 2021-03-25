@@ -43,7 +43,7 @@
 
 ---
 
-<img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmcabreira&show_icons=true&hide_border=true" />
+
 
 
 [linkedin]: https://www.linkedin.com/in/mauricio-dos-santos-araujo-81a50816b/
