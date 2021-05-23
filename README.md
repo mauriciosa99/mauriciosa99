@@ -2,9 +2,9 @@
 
 ## Sou um profissional de TI que conheceu a Ciência de Dados e no mesmo instante fiquei encantado com as possibilidades que a mesma pode proporcionar
 
-- 💻 Atualmente estou trabalhando de forma autônoma com TI em geral
-- 📈 Estou buscando aprimorar minhas habilidades em Ciência dos Dados
-- 📊 Focado em enriquecer meu portfólio e aprender cada vez mais através de projetos reais
+- 💻 Atualmente estou trabalhando como frelancer.
+- 📈 Estou buscando aprimorar minhas habilidades em Ciência dos Dados.
+- 📊 Focado em enriquecer meu portfólio e aprender cada vez mais através de projetos reais.
 
 ### Conecte-se comigo:
 
