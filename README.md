@@ -28,7 +28,7 @@
 
 <img align="left" alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
 
-<img align="left" alt="Power BI" width="30px" src="https://lsxconsulting.com/wp-content/uploads/2020/07/160.jpg" />
+<img align="left" alt="Power BI" width="30px" src="https://business.uc.edu/centers-partnerships/business-analytics/training/ms-powerbi-training/_jcr_content/main/textimage_1459434562/image.img.png/1587492218429.png" />
 
 <br />
 <br />
