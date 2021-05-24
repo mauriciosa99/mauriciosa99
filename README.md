@@ -8,7 +8,7 @@
 
 ### Conecte-se comigo:
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/mauricio-dos-santos-araujo-81a50816b)
+[<img align="left"  width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/mauricio-dos-santos-araujo-81a50816b)
 
 [<img align="left" alt="jhon_cabreira | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/mauricio.ds0/)
 
