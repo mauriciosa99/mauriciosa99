@@ -28,6 +28,8 @@
 
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
 
+<img align="left" alt="Power BI" width="26px" src="https://lsxconsulting.com/wp-content/uploads/2020/07/160.jpg" />
+
 <br />
 <br />
 
