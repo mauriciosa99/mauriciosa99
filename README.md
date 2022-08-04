@@ -2,7 +2,7 @@
 
 ## Sou um profissional de TI que conheceu a Ciência de Dados e no mesmo instante ficou encantado com as possibilidades que a mesma pode proporcionar
 
-- 💻 Atualmente estou trabalhando como freelancer.
+- 💻 Atualmente sou Analista de Dados.
 - 📈 Estou buscando aprimorar minhas habilidades em Ciência dos Dados.
 - 📊 Focado em enriquecer meu portfólio e aprender cada vez mais através de projetos reais.
 
